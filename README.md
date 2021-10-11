@@ -39,3 +39,6 @@ Click for txt file: [Election Results](https://github.com/jzaragoza21/Election_A
 
 ## Election Audit Summary 
 
+First and foremost, the code executed for this election audit demonstrated an ability to save significant time for Colorado taxpayers and its Commission of Elections. While saving considerable time and resources is good enough on its own, data science also improves the legitimacy of Colorado elections. We propose we do this for every Colorado election up and down the ballot. This would include everything from the Presidential election to congressional races to state legislative races. Certainly we will save you time by rapidly producing the outcome of elections for both the voters and the media. 
+
+Employing this code also adds a layer of integrity and transparency for Colorado constiuents. This is why we propose to modify the code so that we can provide your commission and, more importantly, Coloradoans a more comprehensive picture of who is participating in these elections. We would do this by modifying the code to breakdown voters by race, age and gender. As a result, this will provide your commission with more insights as to who is voting and how you can better allocate ballot access resources in upcoming elections.  
