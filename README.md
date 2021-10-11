@@ -20,7 +20,8 @@ The data provided to us includes three columns: ballot ID, county, and candidate
 
 ## Election Audit Results 
 
-[Election_Analysis](https://github.com/jzaragoza21/Election_Analysis/blob/main/analysis/election_analysis.txt)
+[Election Analysis](https://github.com/jzaragoza21/Election_Analysis/blob/main/analysis/election_analysis.txt)
+
 [Election Results](https://github.com/jzaragoza21/Election_Analysis/blob/main/analysis/election_results.txt)
 
 - **How many votes were cast in this congressional election?**
