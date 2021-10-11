@@ -18,7 +18,11 @@ The purpose of this project was to complete an election audit of a recent local 
 ### The Data
 The data provided to us includes three columns: ballot ID, county, and candidate name.
 
-## Election Audit Results
+## Election Audit Results 
+
+[Election_Analysis](https://github.com/jzaragoza21/Election_Analysis/blob/main/analysis/election_analysis.txt)
+[Election Results](https://github.com/jzaragoza21/Election_Analysis/blob/main/analysis/election_results.txt)
+
 - **How many votes were cast in this congressional election?**
 -  The total votes casted in this congressional election was 369,711 votes.
 - **Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.**
@@ -33,3 +37,4 @@ The data provided to us includes three columns: ballot ID, county, and candidate
 ![This is an image](https://github.com/jzaragoza21/Election_Analysis/blob/main/analysis/Election_Analysis_Challenge_OutputResults.png)
 
 ## Election Audit Summary 
+
