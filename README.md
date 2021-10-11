@@ -1,10 +1,10 @@
 # Election Audit Challenge 
 Click here to view the Python Challenge Code: [Election Analysis](https://github.com/jzaragoza21/Election_Analysis/blob/main/PyPoll_Challenge.py)
 
-Click here to view the Module Election Audit Code: [Election Audit] (https://github.com/jzaragoza21/Election_Analysis/blob/main/PyPoll.py)
-
+Click here to view the module code: [Election Audit](https://github.com/jzaragoza21/Election_Analysis/blob/main/PyPoll.py)
 
 ## Overview of Election Audit
+
 The purpose of this project was to complete an election audit of a recent local congressional election in Colorado. The deliverables are as follows: 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
