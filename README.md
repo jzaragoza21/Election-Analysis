@@ -26,4 +26,5 @@ The data provided to us includes three columns: ballot ID, county, and candidate
 - This congressional race had three candidates: 1) Charles Casper Stockham: 23.0% (85,213); 2) Diana DeGette: 73.8% (272,892); 3)Raymon Anthony Doane: 3.1% (11,606)
 - *Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 - Diana DeGette handidly won this race earning 73.8% of the total votes. 272,892 total people voted for her in this election.
+
 ![This is an image](https://github.com/jzaragoza21/Election_Analysis/blob/main/analysis/Election_Analysis_Challenge_OutputResults.png)
