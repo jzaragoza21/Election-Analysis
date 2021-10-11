@@ -1,5 +1,6 @@
 # Election_Analysis 
-Click here to view the Challenge Code: [PyPoll Challenge] (https://github.com/jzaragoza21/Election_Analysis/blob/main/PyPoll_Challenge.py)
+Click here to view the Python Code: [Election Analysis] (https://github.com/jzaragoza21/Election_Analysis/blob/main/PyPoll_Challenge.py)
+
 Click here to view Election Audit Code: [PyPoll] (https://github.com/jzaragoza21/Election_Analysis/blob/main/PyPoll.py)
 
 ## Overview of Election Audit
