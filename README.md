@@ -1,7 +1,5 @@
-# Election_Analysis 
-Click here to view the Python Code: [Election Analysis] (https://github.com/jzaragoza21/Election_Analysis/blob/main/PyPoll_Challenge.py)
-
-Click here to view Election Audit Code: [PyPoll] (https://github.com/jzaragoza21/Election_Analysis/blob/main/PyPoll.py)
+# Election Audit Challenge 
+Click here to view the Python Code: [Election Analaysis](https://github.com/jzaragoza21/Election_Analysis/blob/main/PyPoll_Challenge.py)
 
 ## Overview of Election Audit
 The purpose of this project was to complete an election audit of a recent local congressional election in Colorado. The deliverables are as follows: 
