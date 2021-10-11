@@ -14,3 +14,5 @@ The purpose of this project was to complete an election audit of a recent local 
 
 ### The Data
 The data provided to us includes three columns: ballot ID, county, and candidate name.
+
+## Election Audit Results
