@@ -28,3 +28,5 @@ The data provided to us includes three columns: ballot ID, county, and candidate
 - Diana DeGette handidly won this race earning 73.8% of the total votes. 272,892 total people voted for her in this election.
 
 ![This is an image](https://github.com/jzaragoza21/Election_Analysis/blob/main/analysis/Election_Analysis_Challenge_OutputResults.png)
+
+## Election Audit Summary 
