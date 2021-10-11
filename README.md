@@ -20,9 +20,9 @@ The data provided to us includes three columns: ballot ID, county, and candidate
 
 ## Election Audit Results 
 
-[Election Analysis](https://github.com/jzaragoza21/Election_Analysis/blob/main/analysis/election_analysis.txt)
+Click for txt file: [Election Analysis](https://github.com/jzaragoza21/Election_Analysis/blob/main/analysis/election_analysis.txt)
 
-[Election Results](https://github.com/jzaragoza21/Election_Analysis/blob/main/analysis/election_results.txt)
+Click for txt file: [Election Results](https://github.com/jzaragoza21/Election_Analysis/blob/main/analysis/election_results.txt)
 
 - **How many votes were cast in this congressional election?**
 -  The total votes casted in this congressional election was 369,711 votes.
